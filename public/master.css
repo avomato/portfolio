@@ -2,7 +2,7 @@
 ul,li,ol{ list-style:none;}
 *{ margin:0; padding:0; }
 body{background-color: #151515;}
-header{height:940px;}
+header{height:1090px;}
 
 
 .main_me{ width:350px; height:auto; margin:0 auto; font-family: 'Oswald', sans-serif; position:relative; z-index:100; color:#fff; padding-top:220px;}
@@ -11,7 +11,7 @@ header{height:940px;}
 .main_me h1{ font-size:60px; letter-spacing:10px; font-weight:400;}
 .main_me h5{ font-size:25px; line-height:50px; font-weight:400;color:gold;}
 
-.project h6 {text-align:center;  color: #fff; font-size:50px;  color: gold; margin-top: 190px;}
+.project h6 {text-align:center;  color: #fff; font-size:50px;  color: gold; margin-top: 100px;}
 
 
 
@@ -19,7 +19,7 @@ header{height:940px;}
 
 
 
-.site{ width:auto; height:1000px; background-color:#151515; margin:0 auto; display:inline-flex;
+.site{ width:auto; height:850px; background-color:#151515; margin:0 auto; display:inline-flex;
 align-items:center; justify-content:space-between; }
 
 
