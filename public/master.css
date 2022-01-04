@@ -18,14 +18,14 @@ body{background-color: #151515;}
 
 
 
-.site{ width:auto; height:937px; background-color:#151515; margin:0 auto; display:flex;
-align-items:center;justify-content:space-between; }
+.site{ width:auto; height:937px; background-color:#151515; margin:0 auto; display:inline-flex;
+align-items:center; justify-content:space-between; }
 
 
 
-.home2{ width:auto; height:617px; ; margin-left: 450px; background-size:cover; overflow:hidden;
+.home2{ width:auto; height:617px; ; margin-left: 450px; background-size:cover; overflow:auto;
 position:relative; z-index:20; border:1px solid #eee; }
-.home2{ display:flex; }
+.home2{ display:inline-flex; }
 
 
 
