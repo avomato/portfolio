@@ -2,7 +2,7 @@
 ul,li,ol{ list-style:none;}
 *{ margin:0; padding:0; }
 body{background-color: #151515;}
-head{width:1500px;  display:flex;}
+
 
 .main_me{ width:350px; height:auto; margin:0 auto; font-family: 'Oswald', sans-serif; position:relative; z-index:100; color:#fff; padding-top:220px;}
 .main_me p{ font-size:40px; letter-spacing:5px; color: gold;}
@@ -18,12 +18,12 @@ head{width:1500px;  display:flex;}
 
 
 
-.site{ width:1500px; height:937px; background-color:#151515; margin:0 auto; display:flex;
+.site{ width:auto; height:937px; background-color:#151515; margin:0 auto; display:flex;
 align-items:center;justify-content:space-between; }
 
 
 
-.home2{ width:420px; height:617px; ; margin-left: 300px; background-size:cover; overflow:hidden;
+.home2{ width:auto; height:617px; ; margin-left: 450px; background-size:cover; overflow:hidden;
 position:relative; z-index:20; border:1px solid #eee; }
 .home2{ display:flex; }
 
@@ -33,7 +33,7 @@ position:relative; z-index:20; border:1px solid #eee; }
 
 
 
-.text{ width:530px; height:750px; margin-top:100px; margin-right:130px; font-family: 'Noto Sans KR', sans-serif;}
+.text{ width:530px; height:750px; margin-top:100px; margin-right:450px; font-family: 'Noto Sans KR', sans-serif;}
 .text h1{ font-size:60px; }
 .text span{font-size:40px; font-family: 'Do Hyeon', sans-serif;}
 .text h1{ color:gold; }
